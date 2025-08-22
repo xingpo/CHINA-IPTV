@@ -65,3 +65,4 @@ CGTN外语纪录,CGTN纪录
 中国教育1台,CETV1
 中国教育2台,CETV2
 中国教育4台,CETV4
+合信佳,HXJ
